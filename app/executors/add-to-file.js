@@ -1,5 +1,5 @@
 const fs = require('fs');
-const delay = require('./async-utils').delay;
+const delay = require('../async-utils').delay;
 
 async function addToFile(config) {
     while (true) {
