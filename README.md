@@ -3,9 +3,9 @@
 ## Steps
 
  - Clone this project
- - Checkout to branch `new`
- - Delete the `.git`
+ - Run the init.sh
  - Update the project name in `package.json`
+ - Update this `README.md` for the new project
 
 ## Links
 
