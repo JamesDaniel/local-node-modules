@@ -1,0 +1,22 @@
+{
+  "name": "local-node-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesDaniel/local-node-modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesDaniel/local-node-modules/issues"
+  },
+  "homepage": "https://github.com/JamesDaniel/local-node-modules#readme",
+  "dependencies": {
+    "run-parallel": "^1.1.10"
+  }
+}
