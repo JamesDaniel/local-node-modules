@@ -1,4 +1,4 @@
-# An example project structure for future projects
+# An example project structure for future nodejs projects
 
 ## Links
 
